@@ -1,0 +1,6 @@
+framework module SimpleNativePush {
+  umbrella header "SimpleNativePush.h"
+
+  export *
+  module * { export * }
+}

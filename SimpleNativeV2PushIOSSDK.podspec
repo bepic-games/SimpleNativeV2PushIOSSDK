@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "SimpleNativeV2PushIOSSDK"
-  spec.version="0.2.12"
+  spec.version="0.2.13"
   spec.summary= "Simple SDK V2 for include Push"
   spec.description= <<-DESC
   Simple SDK V2 for include Push, please includ the core sdk more
